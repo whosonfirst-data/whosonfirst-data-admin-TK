@@ -1,0 +1,63 @@
+{
+  "id": 890421513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.829,-9.169,-171.829,-9.169",
+    "geom:latitude":-9.169,
+    "geom:longitude":-171.829,
+    "gn:country":"TK",
+    "gn:fcode":"ATOL",
+    "gn:pop":426,
+    "iso:country":"TK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Nukuno"
+    ],
+    "qs:name":"Nukunonu Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4031090,
+        "qs:id":97092
+    },
+    "wof:country":"TK",
+    "wof:created":1469051395,
+    "wof:geomhash":"e794686dcc172affa6023ad53030b0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890421513,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890421513,
+    "wof:lastmodified":1506728567,
+    "wof:name":"Nukunonu Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":426,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.829,
+    -9.169,
+    -171.829,
+    -9.169
+],
+  "geometry": {"coordinates":[-171.82900000000001,-9.169],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 890421515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-171.232,-9.376,-171.232,-9.376",
+    "geom:latitude":-9.376,
+    "geom:longitude":-171.232,
+    "gn:country":"TK",
+    "gn:fcode":"ATOL",
+    "gn:pop":483,
+    "iso:country":"TK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Fakaafo"
+    ],
+    "qs:name":"Fakaofo Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4031111,
+        "qs:id":97094
+    },
+    "wof:country":"TK",
+    "wof:created":1469051395,
+    "wof:geomhash":"d4b0089de66aabba66d202e9dac3e030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890421515,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890421515,
+    "wof:lastmodified":1506728566,
+    "wof:name":"Fakaofo Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":483,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -171.232,
+    -9.376,
+    -171.232,
+    -9.376
+],
+  "geometry": {"coordinates":[-171.232,-9.376],"type":"Point"}
+}
