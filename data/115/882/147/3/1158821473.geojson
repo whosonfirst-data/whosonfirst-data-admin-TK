@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003433,
-    "geom:area_square_m":41910536.214271,
+    "geom:area_square_m":41910536.214398,
     "geom:bbox":"-172.520761622,-9.44477647399,-171.181065517,-8.53236550917",
     "geom:latitude":-9.148847,
     "geom:longitude":-171.708509,
@@ -21,14 +21,8 @@
     "name:afr_x_preferred":[
         "Tokelau"
     ],
-    "name:alb_x_preferred":[
-        "Tokelau"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u064a\u0644\u0627\u0648"
-    ],
-    "name:arm_x_preferred":[
-        "\u054f\u0578\u056f\u0565\u056c\u0561\u0578\u0582"
     ],
     "name:ast_x_preferred":[
         "Tokel\u00e1u"
@@ -38,9 +32,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
-    ],
-    "name:baq_x_preferred":[
-        "Tokelau"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043b\u0430\u0443"
@@ -63,16 +54,19 @@
     "name:cat_x_preferred":[
         "Illes Tokelau"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u514b\u52b3\u7fa4\u5c9b"
+    "name:ces_x_preferred":[
+        "Tokelau"
     ],
     "name:cor_x_preferred":[
         "Tokelau"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Tokelau"
     ],
     "name:dan_x_preferred":[
+        "Tokelau"
+    ],
+    "name:deu_x_preferred":[
         "Tokelau"
     ],
     "name:diq_x_preferred":[
@@ -81,8 +75,8 @@
     "name:div_x_preferred":[
         "\u078c\u07ae\u0786\u07ac\u078d\u07a7\u0787\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Tokelau-eilanden"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03ba\u03b5\u03bb\u03ac\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Tokelau Islands"
@@ -96,13 +90,19 @@
     "name:est_x_preferred":[
         "Tokelau"
     ],
+    "name:eus_x_preferred":[
+        "Tokelau"
+    ],
     "name:fao_x_preferred":[
         "Tokelau"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
     ],
     "name:fin_x_preferred":[
         "Tokelau"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tokelau"
     ],
     "name:frp_x_preferred":[
@@ -111,20 +111,11 @@
     "name:gag_x_preferred":[
         "Tokelau"
     ],
-    "name:geo_x_preferred":[
-        "\u10e2\u10dd\u10d9\u10d4\u10da\u10d0\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Tokelau"
-    ],
     "name:glg_x_preferred":[
         "Toquelau"
     ],
     "name:glv_x_preferred":[
         "Tokelau"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03ba\u03b5\u03bb\u03ac\u03bf\u03c5"
     ],
     "name:heb_x_preferred":[
         "\u05d8\u05d5\u05e7\u05dc\u05d0\u05d5"
@@ -138,14 +129,17 @@
     "name:hun_x_preferred":[
         "Tokelau-szigetek"
     ],
-    "name:ice_x_preferred":[
-        "T\u00f3kel\u00e1"
+    "name:hye_x_preferred":[
+        "\u054f\u0578\u056f\u0565\u056c\u0561\u0578\u0582"
     ],
     "name:ido_x_preferred":[
         "Tokelau"
     ],
     "name:ind_x_preferred":[
         "Tokelau"
+    ],
+    "name:isl_x_preferred":[
+        "T\u00f3kel\u00e1"
     ],
     "name:ita_x_preferred":[
         "Tokelau"
@@ -155,6 +149,9 @@
     ],
     "name:kaa_x_preferred":[
         "Tokelau"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e2\u10dd\u10d9\u10d4\u10da\u10d0\u10e3"
     ],
     "name:kaz_x_preferred":[
         "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
@@ -180,20 +177,20 @@
     "name:lit_x_preferred":[
         "Tokelau"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
-    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d4b\u0d15\u0d4d\u200c\u0d32\u0d35\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d41\u0d15\u0d7e"
     ],
     "name:mar_x_preferred":[
         "\u091f\u094b\u0915\u0947\u0932\u093e\u0909"
     ],
-    "name:may_x_preferred":[
-        "Tokelau"
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
     ],
     "name:mlt_x_preferred":[
         "Tokelaw"
+    ],
+    "name:msa_x_preferred":[
+        "Tokelau"
     ],
     "name:mzn_x_preferred":[
         "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
@@ -203,6 +200,9 @@
     ],
     "name:nan_x_preferred":[
         "Tokelau"
+    ],
+    "name:nld_x_preferred":[
+        "Tokelau-eilanden"
     ],
     "name:nno_x_preferred":[
         "Tokelau"
@@ -219,16 +219,13 @@
     "name:pan_x_preferred":[
         "\u0a24\u0a4b\u0a15\u0a32\u0a4c"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
-    ],
     "name:pol_x_preferred":[
         "Tokelau"
     ],
     "name:por_x_preferred":[
         "Tokelau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Tokelau"
     ],
     "name:rus_x_preferred":[
@@ -240,7 +237,7 @@
     "name:sco_x_preferred":[
         "Tokelau"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Tokelau"
     ],
     "name:slv_x_preferred":[
@@ -253,6 +250,9 @@
         "Tokelau"
     ],
     "name:spa_x_preferred":[
+        "Tokelau"
+    ],
+    "name:sqi_x_preferred":[
         "Tokelau"
     ],
     "name:srp_x_preferred":[
@@ -300,9 +300,6 @@
     "name:war_x_preferred":[
         "Tokelau"
     ],
-    "name:wel_x_preferred":[
-        "Tokelau"
-    ],
     "name:wol_x_preferred":[
         "Tokelau"
     ],
@@ -311,6 +308,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6258\u514b\u52de"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u514b\u52b3\u7fa4\u5c9b"
     ],
     "qs:name":"Tokelau Islands",
     "qs:photos_9r":0,
@@ -340,7 +340,7 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1514506567,
+    "wof:lastmodified":1561760064,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
