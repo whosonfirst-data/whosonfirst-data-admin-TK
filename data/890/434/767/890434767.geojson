@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0623\u062a\u0627\u0641\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Atafu"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u0430\u0444\u0443"
     ],
@@ -28,11 +31,17 @@
     "name:cat_x_preferred":[
         "Atafu"
     ],
+    "name:ceb_x_preferred":[
+        "Atafu"
+    ],
     "name:ces_x_preferred":[
         "Atafu"
     ],
     "name:deu_x_preferred":[
         "Atafu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03ac\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Atafu"
@@ -49,11 +58,17 @@
     "name:glg_x_preferred":[
         "Atafu"
     ],
+    "name:glg_x_variant":[
+        "Atol Atafu"
+    ],
     "name:hrv_x_preferred":[
         "Atafu"
     ],
     "name:hye_x_preferred":[
         "\u0531\u057f\u0561\u0586\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Atafu"
     ],
     "name:ita_x_preferred":[
         "Atafu"
@@ -106,6 +121,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e15\u0e32\u0e1f\u0e39"
     ],
+    "name:tur_x_preferred":[
+        "Atafu"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0442\u0430\u0444\u0443"
     ],
@@ -142,7 +160,7 @@
         }
     ],
     "wof:id":890434767,
-    "wof:lastmodified":1561760064,
+    "wof:lastmodified":1563315434,
     "wof:name":"Atafu Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
