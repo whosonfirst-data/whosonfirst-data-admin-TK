@@ -26,8 +26,101 @@
     "iso:country":"TK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0648\u0643\u0648\u0646\u0648\u0646\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:bos_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:cat_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:ceb_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:deu_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:est_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:fin_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:fra_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Nukunono"
+    ],
+    "name:hrv_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:ita_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30af\u30ce\u30ce\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub204\ucfe0\ub178\ub204"
+    ],
+    "name:lat_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:lit_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:nld_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:nor_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:pol_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:por_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:ron_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043d\u043e\u043d\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043d\u043e\u043d\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bc1\u0b95\u0bc1\u0ba9\u0bcb\u0ba9\u0bc1"
+    ],
+    "name:tur_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0443\u043a\u0443\u043d\u043e\u043d\u0443"
+    ],
     "name:und_x_variant":[
         "Nukunonu Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06a9\u0648\u0646\u0648\u0646\u0648"
+    ],
+    "name:war_x_preferred":[
+        "Nukunonu"
+    ],
+    "name:zho_x_preferred":[
+        "\u52aa\u5eab\u8afe\u52aa\u74b0\u7901"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -41,7 +134,7 @@
     "wof:geomhash":"3c1325bf31b8c8ed10a6a54e5013e3c8",
     "wof:hierarchy":[],
     "wof:id":1209325079,
-    "wof:lastmodified":1537706417,
+    "wof:lastmodified":1564131017,
     "wof:name":"Nukunonu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
