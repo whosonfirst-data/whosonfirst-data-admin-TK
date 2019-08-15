@@ -13,6 +13,9 @@
     "gn:fcode":"ATOL",
     "gn:pop":1466,
     "iso:country":"TK",
+    "label:eng_x_preferred_shortcode":[
+        "TK"
+    ],
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:ace_x_preferred":[
@@ -379,13 +382,14 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1563315435,
+    "wof:lastmodified":1565888865,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
     "wof:population":1466,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-tk",
+    "wof:shortcode":"TK",
     "wof:superseded_by":[],
     "wof:supersedes":[
         890451503
