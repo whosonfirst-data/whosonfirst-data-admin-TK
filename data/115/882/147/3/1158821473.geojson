@@ -370,9 +370,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            772
-        ],
+        "digitalenvoy:country_code":772,
         "gn:id":4031073,
         "qs_pg:id":97090,
         "wd:id":"Q36823"
@@ -388,7 +386,7 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1583529253,
+    "wof:lastmodified":1583797463,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
