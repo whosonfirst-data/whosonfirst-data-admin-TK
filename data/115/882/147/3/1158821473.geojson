@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003433,
-    "geom:area_square_m":41910536.214398,
+    "geom:area_square_m":41910606.03798,
     "geom:bbox":"-172.520762,-9.444776,-171.181066,-8.532366",
     "geom:latitude":-9.148847,
     "geom:longitude":-171.708509,
@@ -47,6 +47,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
+    ],
+    "name:bcl_x_preferred":[
+        "Tokelau"
     ],
     "name:bel_x_preferred":[
         "\u0422\u0430\u043a\u0435\u043b\u0430\u0443"
@@ -99,6 +102,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03ba\u03b5\u03bb\u03ac\u03bf\u03c5"
     ],
+    "name:eng_gb_x_preferred":[
+        "Tokelau"
+    ],
     "name:eng_x_preferred":[
         "Tokelau Islands"
     ],
@@ -129,7 +135,13 @@
     "name:frp_x_preferred":[
         "Tokelaou"
     ],
+    "name:frr_x_preferred":[
+        "Tokelau"
+    ],
     "name:gag_x_preferred":[
+        "Tokelau"
+    ],
+    "name:gcr_x_preferred":[
         "Tokelau"
     ],
     "name:glg_x_preferred":[
@@ -149,6 +161,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u094b\u0915\u0947\u0932\u094c"
+    ],
+    "name:hin_x_variant":[
+        "\u091f\u094b\u0915\u0947\u0932\u093e\u090a"
     ],
     "name:hrv_x_preferred":[
         "Tokelau"
@@ -252,6 +267,9 @@
     "name:pan_x_preferred":[
         "\u0a24\u0a4b\u0a15\u0a32\u0a4c"
     ],
+    "name:pan_x_variant":[
+        "\u0a24\u0a4b\u0a15\u0a47\u0a32\u0a3e\u0a0a"
+    ],
     "name:pih_x_preferred":[
         "Tokelau"
     ],
@@ -269,6 +287,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
+    ],
+    "name:san_x_preferred":[
+        "\u091f\u094b\u0915\u0947\u0932\u093e\u090a"
     ],
     "name:scn_x_preferred":[
         "Tokelau"
@@ -354,8 +375,29 @@
     "name:yue_x_preferred":[
         "\u6258\u514b\u52de"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u6258\u514b\u52b3"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u6258\u514b\u52de"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u6258\u514b\u52de"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u6258\u514b\u52b3"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u6258\u514b\u52b3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6258\u514b\u52de"
+    ],
     "name:zho_x_preferred":[
         "\u6258\u514b\u52b3\u7fa4\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u6258\u514b\u52b3"
     ],
     "qs:name":"Tokelau Islands",
     "qs:photos_9r":0,
@@ -386,7 +428,7 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1583797463,
+    "wof:lastmodified":1587428054,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
