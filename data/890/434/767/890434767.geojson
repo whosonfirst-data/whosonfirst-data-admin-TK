@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Atafu"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u062a\u0627\u0641\u0648"
     ],
@@ -52,6 +55,9 @@
     "name:est_x_preferred":[
         "Atafu"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u062a\u0627\u0641\u0648"
+    ],
     "name:fin_x_preferred":[
         "Atafu"
     ],
@@ -73,6 +79,9 @@
     "name:ind_x_preferred":[
         "Atafu"
     ],
+    "name:isl_x_preferred":[
+        "Atafu"
+    ],
     "name:ita_x_preferred":[
         "Atafu"
     ],
@@ -85,7 +94,13 @@
     "name:lat_x_preferred":[
         "Atafu"
     ],
+    "name:lav_x_preferred":[
+        "Atafu"
+    ],
     "name:lit_x_preferred":[
+        "Atafu"
+    ],
+    "name:msa_x_preferred":[
         "Atafu"
     ],
     "name:nld_x_preferred":[
@@ -97,8 +112,14 @@
     "name:nor_x_preferred":[
         "Atafu"
     ],
+    "name:pih_x_preferred":[
+        "Atafu"
+    ],
     "name:pol_x_preferred":[
         "Atafu"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u062a\u0627\u0641\u0648"
     ],
     "name:ron_x_preferred":[
         "Atafu"
@@ -136,6 +157,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0679\u0627\u0641\u0648"
     ],
+    "name:yue_x_preferred":[
+        "\u963f\u5854\u5bcc"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u5854\u5bcc\u74b0\u7901"
     ],
@@ -163,7 +187,7 @@
         }
     ],
     "wof:id":890434767,
-    "wof:lastmodified":1566666592,
+    "wof:lastmodified":1690870959,
     "wof:name":"Atafu Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
