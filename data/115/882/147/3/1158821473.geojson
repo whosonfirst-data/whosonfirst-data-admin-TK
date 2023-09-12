@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003433,
-    "geom:area_square_m":41910606.03798,
+    "geom:area_square_m":41910606.037877,
     "geom:bbox":"-172.520762,-9.444776,-171.181066,-8.532366",
     "geom:latitude":-9.148847,
     "geom:longitude":-171.708509,
@@ -13,6 +13,9 @@
     "gn:fcode":"ATOL",
     "gn:population":1466,
     "iso:country":"TK",
+    "label:eng_x_preferred_placetype":[
+        "dependent territory"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TK"
     ],
@@ -577,7 +580,8 @@
     "reversegeo:latitude":-8.5805,
     "reversegeo:longitude":-172.5045,
     "src:geom":"mz",
-    "src:population":"mz",
+    "src:population":"naturalearth",
+    "src:population_year":"2016",
     "wof:belongsto":[
         136253053
     ],
@@ -591,7 +595,7 @@
     },
     "wof:country":"TK",
     "wof:created":1469052781,
-    "wof:geomhash":"0a788f67519ab1dbe171ab636447eaa6",
+    "wof:geomhash":"d4beaea81b51247fa35cc1fc42e1ec79",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -600,12 +604,12 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1690870959,
+    "wof:lastmodified":1694493029,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
-    "wof:population":1466,
-    "wof:population_rank":3,
+    "wof:population":1499,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tk",
     "wof:shortcode":"TK",
     "wof:superseded_by":[],
