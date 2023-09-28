@@ -589,10 +589,12 @@
     "wof:concordances":{
         "digitalenvoy:country_code":772,
         "gn:id":4031073,
+        "iso:code":"TK",
         "ne:id":1159321135,
         "qs_pg:id":97090,
         "wd:id":"Q36823"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TK",
     "wof:created":1469052781,
     "wof:geomhash":"d4beaea81b51247fa35cc1fc42e1ec79",
@@ -604,7 +606,7 @@
         }
     ],
     "wof:id":1158821473,
-    "wof:lastmodified":1694639811,
+    "wof:lastmodified":1695881382,
     "wof:name":"Tokelau Islands",
     "wof:parent_id":136253053,
     "wof:placetype":"dependency",
